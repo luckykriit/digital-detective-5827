@@ -36,5 +36,7 @@ I practised each command and used `ls` to verify that files were created, copied
 - `renamed-notes.txt`
 
 ## 8. Commit Details
-To be added after completing and pushing this mission.
+Commit message: `Complete terminal and file management mission`
+
+GitHub push status: Pushed to `main`.
 

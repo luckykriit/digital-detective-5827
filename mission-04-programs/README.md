@@ -31,6 +31,8 @@ I used Python commands in the terminal and verified that the program produced th
 - Terminal output showing successful execution.
 
 ## 8. Commit Details
-To be added after completing and pushing this mission.
+Commit message: `Complete Python programming mission`
+
+GitHub push status: Pushed to `main`.
 
 

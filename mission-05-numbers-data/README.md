@@ -36,5 +36,7 @@ I practised manual conversions and verified the results using Python. I also cre
 - ASCII and UTF-8 command results.
 
 ## 8. Commit Details
-To be added after completing and pushing this mission.
+Commit message: `Complete number systems and data mission`
+
+GitHub push status: Pushed to `main`.
 

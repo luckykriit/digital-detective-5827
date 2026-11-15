@@ -22,6 +22,16 @@ Understand basic networking concepts and practise commands used to test network 
 ## 4. What I Understood
 A computer network allows devices to communicate. DNS translates domain names into IP addresses. HTTP is used for communication between web clients and servers. Routers help forward network traffic between networks.
 
+### Types of Networks
+- LAN (Local Area Network): connects devices in a small area, such as a home or office.
+- MAN (Metropolitan Area Network): connects networks across a city.
+- WAN (Wide Area Network): connects networks over large geographical areas.
+
+### Network Communication
+- Client-server: a client requests a service, and a server responds.
+- Protocol: a set of rules for communication between devices. HTTP is one example.
+- Router: forwards data between networks.
+
 ## 5. Difficulties Faced
 Understanding DNS results and traceroute output was initially challenging.
 
@@ -32,5 +42,7 @@ I executed networking commands and examined their outputs. Ping showed successfu
 Terminal outputs from ping, nslookup, curl, ifconfig and traceroute.
 
 ## 8. Commit Details
-To be added after completing and pushing this mission.
+Commit message: `Complete computer networking mission`
+
+GitHub push status: Pushed to `main`.
 

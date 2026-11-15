@@ -36,5 +36,7 @@ I practised Git commands and checked the branch and commit history in the termin
 - Git terminal command outputs.
 
 ## 8. Commit Details
-To be added after completing and pushing this mission.
+Commit message: `Complete Git and GitHub mission`
+
+GitHub push status: Pushed to `main`.
 

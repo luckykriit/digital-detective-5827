@@ -33,5 +33,7 @@ I executed the commands and examined their outputs to understand system informat
 The terminal commands and their outputs served as evidence for this mission.
 
 ## 8. Commit Details
-To be added after completing and pushing this mission.
+Commit message: `Complete operating system mission`
+
+GitHub push status: Pushed to `main`.
 
